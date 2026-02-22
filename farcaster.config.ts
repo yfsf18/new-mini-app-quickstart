@@ -25,7 +25,7 @@ export const farcasterConfig = {
     homeUrl: ROOT_URL,
     webhookUrl: `${ROOT_URL}/api/webhook`,
     primaryCategory: "game app",
-    tags: ["marketing", "ads", "quickstart", "waitlist"],
+    tags: ["marketing", "ads", "quickstart", "FLIP GAME"],
     heroImageUrl: `${ROOT_URL}/blue-hero.png`, 
     tagline: "my first miniapp",
     ogTitle: "my App",
