@@ -9,9 +9,9 @@ const ROOT_URL =
  */
 export const farcasterConfig = {
   accountAssociation: {
-    header: "",
-    payload: "",
-    signature: ""
+    header: "eyJmaWQiOjU2Njk4MiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDM0NGU5OEZEMWU5MzVjOTE4YzM2MzNjRDBhMDMxNjZEMkE3Qjg0ZEIifQ",
+    payload: "eyJkb21haW4iOiJuZXctbWluaS1hcHAtcXVpY2tzdGFydC1zaWdtYS1tb2NoYS52ZXJjZWwuYXBwIn0",
+    signature: "cjoOvF08YrBwuFXliU4zPJtKdRBSUvDXOxX9KvVigU5vgqv3HsQhV1xF5RVGeHx56IXStma6Vo7HQPeoJYjJ5hw"
   },
   miniapp: {
     version: "1",
